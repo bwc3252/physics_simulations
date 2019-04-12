@@ -11,7 +11,7 @@ import progressbar
 
 ### initial conditions
 t0 = 0
-tf = 4
+tf = 10
 
 ### define grid
 n_x = 100
